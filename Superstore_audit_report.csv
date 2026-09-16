@@ -1,0 +1,12 @@
+Rule,Description,Issue_Count,Status
+Missing Values,check for missing values in the dataset,0,pass
+Missing Values,check for missing values in the dataset,0,PASS
+Duplicate Rows,check for completely duplicated records,0,PASS
+Negative Values,Sales should not be negative,0,PASS
+Invalid Quantity,Quantity sholud be greater than zero,0,PASS
+Invalid Discount,Discount sholud be between 0 and 1,0,PASS
+Missing Profit,Profit should not be missing,0,PASS
+Invalid Order Date,Order date should contain valid dates,0,PASS
+Invalid Ship Date,Ship date sholud contain valid dates,0,PASS
+Data Consistency,Ship date should not be earlier than order date,0,PASS
+Missing Customer ID,Customer ID should not be missing,0,PASS
