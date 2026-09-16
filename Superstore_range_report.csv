@@ -1,0 +1,15 @@
+Field,Minimum,Maximum,Invalid_Count
+Sales,0.444,22638.48,0
+Discount,0.0,0.8,0
+Discount,0.0,0.8,"0       False
+1       False
+2       False
+3       False
+4       False
+        ...  
+9989    False
+9990    False
+9991    False
+9992    False
+9993    False
+Name: Discount, Length: 9994, dtype: bool"
